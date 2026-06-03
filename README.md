@@ -17,7 +17,7 @@ L'application a été conçue pour être pilotée sans jamais lâcher le clavier
 | **`Flèche Bas ↓`** | Descendre dans la liste (charge la suite automatiquement si le dossier est grand) |
 | **`Flèche Haut ↑`** | Monter dans la liste |
 | **`Ctrl` + `Flèche Haut ↑`** | Remonter d'un dossier |
-| **`Ctrl` + `Flèche Bas ↑`** | Entrer dans un dossier/Ouvrir un fichier/dossier |
+| **`Ctrl` + `Flèche Bas ↓`** | Entrer dans un dossier/Ouvrir un fichier/dossier |
 | **`Entrée ↵`** | Ouvrir le dossier sélectionné ou lancer le fichier avec le programme Windows par défaut |
 | **`Retour Arrière ⌫`** | Remonter au dossier parent (Dossier supérieur) |
 | **`Ctrl` + `X`** | Couper l'élément sélectionné |
