@@ -1,4 +1,4 @@
-# 🔍 FINDexplorER — v0.2
+# 🔍 FINDexplorER — v0.2 FR
 
 **Alternative rapide et légère à l'Explorateur Windows, optimisée pour la navigation au clavier.**
 
@@ -56,7 +56,7 @@ Si vous souhaitez modifier le code et compiler votre propre exécutable standalo
    ```bash
    build.bat
    
-# 🔍 FINDexplorER — v0.2
+# 🔍 FINDexplorER — v0.2 EN
 
 A fast and lightweight alternative to Windows Explorer, optimized for keyboard navigation.
 
